@@ -6,7 +6,7 @@ const CONFIG = {
     title: 'Hôm nay là ngày gì taaa...',
     desc: 'Trả lời sai là ăn đấm nhaaaa... ',
     btnYes: 'Biết thừaaaa...',
-    btnNo: 'Không nha :3',
+    btnNo: 'Hong bítttt... :3',
     question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
     btnReply: 'Gửi cho bạn <3',
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
