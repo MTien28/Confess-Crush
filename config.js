@@ -11,7 +11,7 @@ const CONFIG = {
     btnReply: 'Gửi cho bạn <3',
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
     mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Mong là ngày kỉ niệm 2 năm này, bạn phải iu thưn mình hưn, hong được bắt nạt mình, hong được để cho mừn tủi thân, bạn mà là mình bùn là mình bắt đền bạn, ăn vạ bạn đoáaaa...',
+    messDesc: 'Mong là ngày kỉ niệm 2 năm này, bạn phải iu thưn mình hưn, hong được bắt nạt mình, hong được để cho mừn tủi thân, bạn mà làm mình bùn là mình bắt đền bạn, ăn vạ bạn đoáaaa...',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
+    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536'
 }
